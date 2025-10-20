@@ -1,5 +1,5 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package eventbus;
+package busDeEventos;
 
 import java.util.List;
 

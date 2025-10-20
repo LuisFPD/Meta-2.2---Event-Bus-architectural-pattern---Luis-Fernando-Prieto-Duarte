@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package components;
+package componentes;
 
-import eventbus.*;
+import busDeEventos.*;
 
 //Publicador que se encarga de avisar cuando se esta preparando algun alimento
 public class Cocina implements EventSubscriber {

@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package components;
+package componentes;
 
-import eventbus.*;
+import busDeEventos.*;
 
 //clase que se subscribe a los eventos e imprime notificaciones en consola
 public class PanelLED implements EventSubscriber {

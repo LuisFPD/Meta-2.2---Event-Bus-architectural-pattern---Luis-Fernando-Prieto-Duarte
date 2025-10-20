@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package components;
+package componentes;
 
-import eventbus.*;
+import busDeEventos.*;
 
 //Subscriptor que se subscribe a bandatocandoevent y imprmie un mensaje
 public class SistemaDeSonido implements EventSubscriber {

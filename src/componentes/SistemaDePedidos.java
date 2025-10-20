@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package components;
+package componentes;
 
-import eventbus.*;
+import busDeEventos.*;
 import java.util.List;
 
 //Publicador que regresa en texto una notificacion referente a un nuevo pedido

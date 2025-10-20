@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package components;
+package componentes;
 
-import eventbus.*;
+import busDeEventos.*;
 
 //Publicador que se encarga de generar un bandatocandoevent simulando tocar durante x segundos
 public class Banda {

@@ -1,5 +1,5 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package eventbus;
+package busDeEventos;
 
 //Evento que tiene que ser inmutable por lo que se utilizan variables final
 public class BebidaServidaEvent extends Event {

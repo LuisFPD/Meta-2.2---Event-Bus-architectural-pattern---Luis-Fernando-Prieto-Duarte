@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
 
-import eventbus.*;
-import components.*;
+import busDeEventos.*;
+import componentes.*;
 import java.util.List;
 
 //Main que se encarga de recrear el flujo deseado, en el que el sistema de pedidos

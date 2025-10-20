@@ -1,7 +1,7 @@
 //Alumno: Luis Fernado Prieto Duarte - Meta 2.2 - Event Bus architectural pattern
-package components;
+package componentes;
 
-import eventbus.*;
+import busDeEventos.*;
 
 //Demostración de extensibilidad al agregar una clase que reaccione al caso de que la canción que se encuentre tocando
 //sea Through the Fire and Flames" y se encarge de imprimir en consola, que las maquinas de humo se enciendan
